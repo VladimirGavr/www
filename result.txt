@@ -1,0 +1,6 @@
+git add .
+git checkout -b new
+git status
+git checkout master
+git status
+git push -u origin master
